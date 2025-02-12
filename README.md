@@ -48,7 +48,7 @@ The target variable is **"y"**, which indicates whether the client subscribed to
 - Precision
 - Recall
 - F1-Score
-- ROC-AUC |
+- ROC-AUC 
 
 ## 🔧 Tools & Libraries  
 
